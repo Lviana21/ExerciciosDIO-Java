@@ -3,7 +3,7 @@ package codeAnywhere.dio;
 import java.util.Scanner;
 
 /*
-#DIO - ENTRADA E SAÍDA CPF
+#DIO - DDD
 Leia um número inteiro que representa um código de DDD para discagem interurbana.
 Em seguida, informe à qual cidade o DDD pertence, considerando a tabela abaixo:
 
